@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/header.jpg" alt="Image showing ...">
+<img src="https://raw.githubusercontent.com/CernJu/CernJu/master/maltskí rytieri.jpg" alt="Image showing ...">
 
 --> 18+ years professional experience as production quality expert. BUT...
 Fast learner and eager to explore new technologies. 
