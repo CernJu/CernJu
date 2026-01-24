@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **CernJu/CernJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> Thanks for your attention!
+--> 18+ years professional experience as production quality expert. BUT...
+Fast learner and eager to explore new technologies. 
+Big fan of heat pumps this led me to modify a mobile AC device, monitored by arduino unit and simple android app.
+
+
