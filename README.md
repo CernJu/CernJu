@@ -2,6 +2,9 @@
 
 18+ years professional experience as production quality expert. BUT...
 Fast learner and eager to explore new technologies. 
-Big fan of heat pumps which led me to modify a mobile AC device, monitored by arduino unit and simple android app.
+Big fan of heat pumps. 
+Both led me to modify a mobile AC device, monitored by arduino unit and simple android app. 
+* [Heat Pump] (https://github.com/CernJu/HeatPumpMonitorByArduino)
+
 
 
